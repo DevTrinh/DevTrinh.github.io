@@ -202,7 +202,7 @@ html{
     height: 11.5%;
     padding-right: 5%;
     position: absolute;
-    background: url('/w3schoolCopy3/assets/img/logo/1200px-Lamborghini_Logo.svg.png');
+    background: url('assets/img/logo/1200px-Lamborghini_Logo.svg.png');
     background-size: cover;
 }
 
