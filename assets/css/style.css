@@ -193,7 +193,7 @@ html{
     margin-top: 46px;
     padding-bottom:50%;
     /* 50% là 50% chiều ngang của chính nó */
-    background:url('/w3schoolCopy3/assets/img/car2.jpg') top center / cover no-repeat;
+    background:url('/assets/img/car2.jpg') top center / cover no-repeat;
     background-size: 100%;
     position: relative;
 }
@@ -202,7 +202,7 @@ html{
     height: 11.5%;
     padding-right: 5%;
     position: absolute;
-    background: url('assets/img/logo/1200px-Lamborghini_Logo.svg.png');
+    background: url('/assets/img/logo/1200px-Lamborghini_Logo.svg.png');
     background-size: cover;
 }
 
