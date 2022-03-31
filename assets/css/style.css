@@ -193,7 +193,7 @@ html{
     margin-top: 46px;
     padding-bottom:50%;
     /* 50% là 50% chiều ngang của chính nó */
-    background:url('/assets/img/car2.jpg') top center / cover no-repeat;
+    background: url(/assets/img/car2.jpg) top center / cover no-repeat;
     background-size: 100%;
     position: relative;
 }
